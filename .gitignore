@@ -1,0 +1,6 @@
+jcat
+jcat.exe
+dist/
+artifacts/
+release-assets/
+release-notes.md
