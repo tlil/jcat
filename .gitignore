@@ -4,3 +4,4 @@ dist/
 artifacts/
 release-assets/
 release-notes.md
+.amp/portals/*

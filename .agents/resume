@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# jcat has no services or authentication state to restore when an orb wakes.
